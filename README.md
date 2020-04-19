@@ -23,8 +23,14 @@ This is [demo project](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-pl
 + [mark](https://www.npmjs.com/package/markdown-it-mark)
 
 ## Install
+[安装步骤详解链接：](https://www.jianshu.com/p/588ab3d22eb8)
+注意：请确保你在 Hexo 主目录下进行以下操作。
+
 ```shell
+1. 卸载 Hexo 默认自带的 Markdown 渲染器
 npm un hexo-renderer-marked --save
+
+2. 安装 hexo-renderer-markdown-it-plus 插件
 npm i hexo-renderer-markdown-it-plus --save
 ```
 
