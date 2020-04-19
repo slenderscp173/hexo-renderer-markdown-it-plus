@@ -1,5 +1,5 @@
 # hexo-renderer-markdown-it-plus
-
+[中文详解：](https://zhanghuimeng.github.io/post/add-footnote-plugin-for-hexo-blog/#bib1)  
 This renderer plugin uses Markdown-it as a render engine on Hexo.
 
 This renderer plugin is forked from [hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it/blob/master/lib/renderer.js).
@@ -23,7 +23,7 @@ This is [demo project](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-pl
 + [mark](https://www.npmjs.com/package/markdown-it-mark)
 
 ## Install
-[安装步骤详解链接：](https://www.jianshu.com/p/588ab3d22eb8)
+[安装步骤详解链接：](https://www.jianshu.com/p/588ab3d22eb8)  
 注意：请确保你在 Hexo 主目录下进行以下操作。
 
 ```shell
